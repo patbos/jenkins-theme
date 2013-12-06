@@ -1,5 +1,5 @@
 body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
-    font-family: georgia, sans-serif
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #top-panel {
@@ -9,4 +9,8 @@ body, p, table, tr, td, strong, h1, h2, h3, h4, h5, h6, blockquote, li {
 
 #top-panel img:first-child {
     display:none;
+}
+
+#search-box {
+    margin-top: 8px;
 }
